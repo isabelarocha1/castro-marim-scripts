@@ -62,8 +62,6 @@ seaborn>=0.12
 openpyxl>=3.0
 biopython>=1.80
 pytz>=2022.0
-
-
 ```
 ```
 How to run
@@ -75,9 +73,6 @@ analise_salinas.py
 Physicochemical Parameters table for water.xlsx
 
 Run:
-
-bash
-Copy code
 python analise_salinas.py
 Results: plots saved in Plots_Analysis_Final/.
 
@@ -89,9 +84,6 @@ CFU_counts.py
 cfu_table.xlsx
 
 Run:
-
-bash
-Copy code
 python CFU_counts.py
 Results: plots saved in figures_cfu/.
 
@@ -103,9 +95,6 @@ sequencias_sanger.py
 all .ab1 chromatogram files
 
 Run:
-
-bash
-Copy code
 python sequencias_sanger.py
 Results:
 
@@ -122,3 +111,5 @@ Citation
 If you use these scripts, please cite:
 
 Rocha, I. (2025). Linking metagenomics and salinity-driven microbial succession in artisanal marine saltworks (MSc Thesis, UAlg–CCMAR).
+
+---
