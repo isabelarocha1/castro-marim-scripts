@@ -52,6 +52,8 @@ Install dependencies with pip:
 
 ```bash
 pip install -r requirements.txt
+
+```
 Minimal requirements.txt:
 
 shell
@@ -63,6 +65,10 @@ seaborn>=0.12
 openpyxl>=3.0
 biopython>=1.80
 pytz>=2022.0
+
+
+```
+```
 How to run
 1) Physicochemical analysis (water)
 Place in the same folder:
@@ -113,6 +119,7 @@ sequencias_limpas.fasta
 relatorio_qualidade.csv
 
 sequencias_boas/, graficos_qualidade/
+
 
 Citation
 If you use these scripts, please cite:
