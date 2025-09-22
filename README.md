@@ -55,9 +55,6 @@ pip install -r requirements.txt
 
 ```
 Minimal requirements.txt:
-
-shell
-Copy code
 pandas>=1.5
 numpy>=1.23
 matplotlib>=3.6
